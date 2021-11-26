@@ -1,0 +1,7 @@
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Image\Image\obj\Debug\Image.csprojResolveAssemblyReference.cache
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Image\Image\obj\Debug\Image.MainForm.resources
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Image\Image\obj\Debug\Image.csproj.GenerateResource.Cache
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Image\Image\bin\Debug\Image.exe
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Image\Image\bin\Debug\Image.pdb
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Image\Image\obj\Debug\Image.exe
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Image\Image\obj\Debug\Image.pdb
